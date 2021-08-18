@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "864379212186",
+    "firebase_url": "https://test-application-8db8c.firebaseio.com",
+    "project_id": "test-application-8db8c",
+    "storage_bucket": "test-application-8db8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864379212186:android:afaf3e04922b4fb2e4aa23",
+        "android_client_info": {
+          "package_name": "com.dev.james.firebasemvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJseVMGXTqbcJB-_Rltf49l1rr2qyb60o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864379212186:android:731b16596614d2f9e4aa23",
+        "android_client_info": {
+          "package_name": "com.example.mypetstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJseVMGXTqbcJB-_Rltf49l1rr2qyb60o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864379212186:android:ff84b29d6166576ee4aa23",
+        "android_client_info": {
+          "package_name": "com.example.sayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJseVMGXTqbcJB-_Rltf49l1rr2qyb60o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864379212186-dkunfakbt8c63tt6qutusrmnu3jei99f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
