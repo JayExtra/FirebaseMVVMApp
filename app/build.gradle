@@ -3,7 +3,6 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-kapt'
     id 'dagger.hilt.android.plugin'
-    id 'com.google.gms.google-services'
 }
 
 android {
@@ -81,3 +80,7 @@ dependencies {
     kapt "androidx.hilt:hilt-compiler:1.0.0"
     implementation "androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03"
 }
+
+
+// ADD THIS AT THE BOTTOM
+apply plugin: 'com.google.gms.google-services'
