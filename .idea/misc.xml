@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/activity_main.xml" value="0.2625" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_home.xml" value="0.2625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_password_reset.xml" value="0.2625" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_signin.xml" value="0.2625" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_signup.xml" value="0.2625" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/sign_up_fragment.xml" value="0.2625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_signin.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_signup.xml" value="0.22037037037037038" />
       </map>
     </option>
   </component>
