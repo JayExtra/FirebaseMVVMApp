@@ -22,3 +22,6 @@ Used for sending a password reset emil incase a user forgets the password.
 
 Follow the tutorial in hashnode : https://jaydroid254.hashnode.dev/firebase-authentication-with-mvvm-and-hilt-part-i
 
+
+!Home screen:](https://github.com/[JayExtra]/[FirebaseMVVMApp]/[master]/home.png?raw=true)
+
