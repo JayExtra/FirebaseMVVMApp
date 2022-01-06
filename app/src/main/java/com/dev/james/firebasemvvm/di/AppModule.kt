@@ -29,7 +29,9 @@ object AppModule {
     //we can simply just swap here
     @Singleton
     @Provides
-    fun provideRepository() : BaseAuthRepository {
-        return AuthRepository(provideAuthenticator())
+    fun provideRepository(
+        authenticator : BaseAuthenticator
+    ) : BaseAuthRepository {
+        return AuthRepository(authenticator)
     }
 }
